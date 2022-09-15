@@ -16,4 +16,4 @@ Pokedex criada com html, css e Javascript, onde é possível pesquisar o Pokémo
 
 <!--# Autor:-->
 
-### <p> <a href="https://andersonrs080.github.io/Pokedex/" target="_blank">Ver projeto</a> </p>
+## <p> <a href="https://andersonrs080.github.io/Pokedex/" target="_blank">Ver projeto</a> </p>
